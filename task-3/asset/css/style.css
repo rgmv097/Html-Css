@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#FirstDiv {
+text-align: center;
+
+background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+padding: 17.5rem 0;
+background-size: cover;
+background-position: center;
+}
+#FirstDiv h1{
+font-size: 88px;
+color:#212529;
+}
+#FirstDiv h3{
+    font-size: 28px;
+    color:#212529;
+    margin-bottom:70px;
+
+}
+#FirstDiv a{
+
+    background-color: #1d809f;
+    padding: 20px 40px;
+    margin-bottom: 50px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: 1s;
+
+
+}
+#FirstDiv a:hover{
+    background-color:blueviolet;
+    
+   
+}
+#SecondDiv{
+    padding: 10rem;
+    text-align: center;
+    background-color: white;
+
+
+}
+#SecondDiv h2{
+    font-size: 40px;
+}
+#SecondDiv p{
+    margin-top: 5px;
+    font-size: 20px;
+    margin-bottom: 50px ;
+}
+#SecondDiv .Unsplash{
+    color:#1d809f;
+    font-size: 20px;
+    
+    
+}
+#SecondDiv .WhatWeOffer{
+    background-color: #212529;
+    padding: 20px 40px;
+    
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+
+}
+#SecondDiv .WhatWeOffer:hover{
+    background-color: black;
+}
+#ThreeDiv{
+    text-align: center;
+
+background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+padding: 16rem 0;
+background-size: cover;
+
+}
+#ThreeDiv h2{
+    font-size: 3.5rem;
+    color:#212529;
+    margin-bottom: 50px;
+    }
+    #ThreeDiv a{
+
+        background-color: #1d809f;
+        padding: 20px 40px;
+        margin-bottom: 50px;
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+        border-radius: 5px;
+        transition: 1s;
+    
+    
+    }
+    #ThreeDiv a:hover{
+        background-color:blueviolet;
+    }
+    .map-card-body iframe {
+        width: 100%;
+    }
